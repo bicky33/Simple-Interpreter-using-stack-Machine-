@@ -4,7 +4,6 @@ Final Project of Design Compiler for  kindergarten and elementary school
 Feature 
 
 
-
 *Type Data : 
              1. Float 
              2. Integer
@@ -29,3 +28,5 @@ Feature
                             8. plus assign (+=)
                             
   * Logical Expression 
+
+special Thanks to Witness-Senpai 
