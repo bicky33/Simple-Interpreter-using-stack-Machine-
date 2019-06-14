@@ -1,0 +1,9 @@
+n = 0; 
+t = 0;
+tampil("masukan nilai pertama: ");
+		masukan(n);
+		tampil("masukan nilai kedua: ");
+		masukan(t);
+e = n + t;
+
+tampil("hasil = ".e);

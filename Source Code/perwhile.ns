@@ -1,0 +1,8 @@
+!!perulangan while
+
+i = 0;
+
+ketika(i < 10){
+tampil(i);
+i += 1;}
+

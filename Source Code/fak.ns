@@ -1,0 +1,15 @@
+!!Program untuk menghitung n!
+
+faktorial = 1;
+i = 2;
+n = 20; 
+
+tampil("masukan angka: ");
+masukan(n);
+
+ketika(i <= n){
+    faktorial *= i;
+    i+=1;
+}
+
+tampil(n . "! = " . faktorial);

@@ -1,0 +1,113 @@
+
+jwb = 0 ;
+
+    tampil("Masukan pilihan anda?");
+    tampil("1 - penjumlahan");
+    tampil("2 - pengurangan");
+    tampil("3 - perkalian");
+    tampil("4 - pembagian");
+	tampil("5 - modulus");
+    tampil("0 - exit");
+    masukan(jwb);
+
+    jika(jwb == 1){
+        tampil("===PENJUMLAHAN===");
+        n = 0;
+		t = 0;
+		tampil("masikan nilai pertama: ");
+		masukan(n);
+		tampil("masikan nilai kedua: ");
+		masukan(t);
+		e = n + t;
+
+		tampil("hasil = ".e);
+
+        tampil("==END==");
+    }
+	lain {
+	
+	}
+	
+	jika(jwb==2)
+	{
+			tampil("===PENGURANGAN===");
+        n = 0;
+		t = 0;
+		tampil("masikan nilai pertama: ");
+		masukan(n);
+		tampil("masikan nilai kedua: ");
+		masukan(t);
+		e = n - t;
+
+		tampil("hasil = ".e);
+
+        tampil("==END==");
+	
+	}
+	lain {
+	
+	
+	}
+	jika(jwb==3)
+	{
+			tampil("===PERKALIAN===");
+        n = 0;
+		t = 0;
+		tampil("masikan nilai pertama: ");
+		masukan(n);
+		tampil("masikan nilai kedua: ");
+		masukan(t);
+		e = n * t;
+
+		tampil("hasil = ".e);
+
+        tampil("==END==");
+	
+	}
+	lain {
+	
+	
+	}
+	jika(jwb==4)
+	{
+			tampil("===PEMBAGIAN===");
+        n = 0;
+		t = 0;
+		tampil("masikan nilai pertama: ");
+		masukan(n);
+		tampil("masikan nilai kedua: ");
+		masukan(t);
+		e = n / t;
+
+		tampil("hasil = ".e);
+
+        tampil("==END==");
+	
+	}
+	lain {
+	
+	
+	}
+	jika(jwb==5)
+	{
+			tampil("===MODULUS===");
+        n = 0;
+		t = 0;
+		tampil("masikan nilai pertama: ");
+		masukan(n);
+		tampil("masikan nilai kedua: ");
+		masukan(t);
+		e = n // t;
+
+		tampil("hasil = ".e);
+
+        tampil("==END==");
+	
+	}
+	lain {
+	
+	
+	}
+	
+
+

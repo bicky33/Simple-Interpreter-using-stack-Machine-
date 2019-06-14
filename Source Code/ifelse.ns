@@ -1,0 +1,13 @@
+!!n number of Fibonacci
+
+
+i = 10 ;
+a = 5 ; 
+jika (i == a)
+{
+    tampil("halo sayang"); 
+}
+lain {
+    tampil("hei"); 
+    }
+

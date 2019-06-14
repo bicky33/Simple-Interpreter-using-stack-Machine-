@@ -1,0 +1,11 @@
+i = 10 ;
+a = 5 ; 
+
+jika (a < i dan i > a  )
+{
+		tampil("aku"); 
+
+}
+lain{
+		
+}
